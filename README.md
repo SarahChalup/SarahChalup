@@ -6,7 +6,7 @@ I'm a passionate Software Engineer currently working in the finance industry, wh
 
 - In-depth knowledge of SQL for efficient data handling.
 - Experience in project management and working on a colaborative enviroment.
-- Proficient in Java, JavaScript, React, and Python for versatile application development and analysis.
+- Proficient in Java, JavaScript, React, and Python for versatile web application development and analysis.
 
 ## 🌱 What I´m passionate about
 
